@@ -1,5 +1,10 @@
 <template>
-  <h1 class="text-red-500">Index page</h1>
+  <LandingContainer>
+    <LandingHero></LandingHero>
+    <LandingFeatures></LandingFeatures>
+    <LandingLogos></LandingLogos>
+    <LandingCta></LandingCta>
+  </LandingContainer>
 </template>
 
 <script setup lang="ts"></script>
