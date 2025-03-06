@@ -3,6 +3,7 @@
 {
 	"name": "DEVELOPMENT",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+//	"image": "oven/bun:1.2.4-alpine",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
